@@ -40,6 +40,6 @@ Generate website-ready content for a local café using Prompt Engineering techni
 
 ## Author
 
-Felmy Felix
+Felmi Felix
 
 Future Interns - Prompt Engineering Internship
